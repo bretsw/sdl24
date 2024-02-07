@@ -33,6 +33,15 @@ class: inverse, center, middle
 
 [bretsw.com/sdl24](https://bretsw.com/sdl24/)
 
+
+---
+
+class: inverse, center, middle
+
+# `r fa("fas fa-file-lines", fill = "#fff")`
+
+[Preprint paper available](sdl24-preprint.pdf)
+
 ---
 
 class: inverse, center, middle
